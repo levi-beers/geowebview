@@ -1,10 +1,3 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- * @flow
- */
 const WEBVIEW_REF = "WEBVIEW_REF";
 import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View, WebView, PermissionsAndroid} from 'react-native';
@@ -17,7 +10,7 @@ export default class App extends Component<Props> {
     this.state = { loading: true };
   }
 
-  requestCameraPermission = async () => {
+  requestLocationPermission = async () => {
     try {
       const granted = await PermissionsAndroid.request(
         PermissionsAndroid.PERMISSIONS.ACCESS_FINE_LOCATION,
@@ -41,7 +34,7 @@ export default class App extends Component<Props> {
   }
 
     componentWillMount() {
-      this.requestCameraPermission()
+      this.requestLocationPermission()
     }
 
     render() {
