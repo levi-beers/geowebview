@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/levibeers/standard_apps/geowebview/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/levibeers/standard_apps/geowebview/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/levibeers/standard_apps/geowebview/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/levibeers/standard_apps/geowebview/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

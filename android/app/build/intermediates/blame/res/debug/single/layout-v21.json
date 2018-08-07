@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/levibeers/standard_apps/geowebview/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/levibeers/.android/build-cache/1afd9fd66e4399e47a2289840d5075ad28d61ce8/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/levibeers/standard_apps/geowebview/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/levibeers/.android/build-cache/1afd9fd66e4399e47a2289840d5075ad28d61ce8/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/levibeers/standard_apps/geowebview/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/levibeers/.android/build-cache/1afd9fd66e4399e47a2289840d5075ad28d61ce8/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/levibeers/standard_apps/geowebview/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/levibeers/.android/build-cache/1afd9fd66e4399e47a2289840d5075ad28d61ce8/output/res/layout-v21/notification_action.xml"
+    }
+]

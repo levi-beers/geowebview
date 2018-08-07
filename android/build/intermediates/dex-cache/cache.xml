@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/levibeers/.android/build-cache/ecb3572d6721e226a89795f654e53c28f3ce916e/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/levibeers/standard_apps/geowebview/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-4.0_5d9c11c2e3391083a5e54c639deedc3ce4b5ccee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/levibeers/standard_apps/geowebview/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/levibeers/standard_apps/geowebview/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_489628bce15de8029b5f6bd6780706488363b6dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/levibeers/standard_apps/geowebview/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e279508866d222c0ee5a4b7a08780b7b23a36ade">
+        <dex dex="/Users/levibeers/standard_apps/geowebview/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_85fbe6a0d240a14cf6eab6bababb979a877001e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/levibeers/.android/build-cache/ecb3572d6721e226a89795f654e53c28f3ce916e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/levibeers/standard_apps/geowebview/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee1aa43c6afd8785b646cc09542e619a90d7915e/classes.dex" />
+    </item>
+
+</items>

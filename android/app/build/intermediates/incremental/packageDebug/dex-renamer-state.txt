@@ -1,0 +1,7 @@
+#Tue Aug 07 13:13:37 EDT 2018
+base.0=/Users/levibeers/standard_apps/geowebview/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_85fbe6a0d240a14cf6eab6bababb979a877001e2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/levibeers/standard_apps/geowebview/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_489628bce15de8029b5f6bd6780706488363b6dd/classes.dex
+base.1=/Users/levibeers/standard_apps/geowebview/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_489628bce15de8029b5f6bd6780706488363b6dd
+file.0=/Users/levibeers/standard_apps/geowebview/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_85fbe6a0d240a14cf6eab6bababb979a877001e2/classes.dex
